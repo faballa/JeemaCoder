@@ -1,0 +1,7 @@
+{
+  "name": "jmc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
